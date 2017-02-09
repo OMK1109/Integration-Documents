@@ -1,0 +1,26 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}Sign-Up}{1}{section.2}
+\contentsline {section}{\numberline {3}Get Merchant ID and Secret Key}{3}{section.3}
+\contentsline {section}{\numberline {4}Staging Credentials}{6}{section.4}
+\contentsline {section}{\numberline {5}Placing files on your server}{7}{section.5}
+\contentsline {section}{\numberline {6}Non Seamless Integration}{8}{section.6}
+\contentsline {subsection}{\numberline {6.1}Checksum Calculation}{8}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Request Parameters}{9}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Response Parameters}{12}{subsection.6.3}
+\contentsline {section}{\numberline {7}Seamless Integration}{13}{section.7}
+\contentsline {subsection}{\numberline {7.1}Checksum Calculation}{13}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Request Parameters}{15}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Response Parameters}{18}{subsection.7.3}
+\contentsline {section}{\numberline {8}Check API}{20}{section.8}
+\contentsline {subsection}{\numberline {8.1}Request Parameters}{20}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Response Parameters}{21}{subsection.8.2}
+\contentsline {section}{\numberline {9}Update API}{22}{section.9}
+\contentsline {subsection}{\numberline {9.1}Request Parameters}{22}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Response Parameters}{24}{subsection.9.2}
+\contentsline {section}{\numberline {10}Bank-Codes}{25}{section.10}
+\contentsline {section}{\numberline {11}Zaakpay API Responses}{27}{section.11}
+\contentsline {subsection}{\numberline {11.1}Transact API Responses}{27}{subsection.11.1}
+\contentsline {subsection}{\numberline {11.2}Check API Responses}{30}{subsection.11.2}
+\contentsline {subsection}{\numberline {11.3}Update API Responses}{32}{subsection.11.3}
+\contentsline {section}{\numberline {12}Testing}{32}{section.12}

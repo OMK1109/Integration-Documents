@@ -1,0 +1,12 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}API Flow}{5}{section.2}
+\contentsline {section}{\numberline {3}Checksum Calculation for response}{6}{section.3}
+\contentsline {section}{\numberline {4}Check API}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}Request Parameters}{7}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Response Parameters}{8}{subsection.4.2}
+\contentsline {section}{\numberline {5}Update API}{9}{section.5}
+\contentsline {subsection}{\numberline {5.1}Request Parameters}{9}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Response Parameters}{11}{subsection.5.2}
+\contentsline {section}{\numberline {6}Check API Responses}{11}{section.6}
+\contentsline {subsection}{\numberline {6.1}Update API Responses}{13}{subsection.6.1}

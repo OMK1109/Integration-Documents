@@ -1,0 +1,25 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Sign-Up}{}% 2
+\BOOKMARK [1][-]{section.3}{Get Merchant ID and Secret Key}{}% 3
+\BOOKMARK [1][-]{section.4}{Staging Credentials}{}% 4
+\BOOKMARK [1][-]{section.5}{Placing files on your server}{}% 5
+\BOOKMARK [1][-]{section.6}{Non Seamless Integration}{}% 6
+\BOOKMARK [2][-]{subsection.6.1}{Checksum Calculation}{section.6}% 7
+\BOOKMARK [2][-]{subsection.6.2}{Request Parameters}{section.6}% 8
+\BOOKMARK [2][-]{subsection.6.3}{Response Parameters}{section.6}% 9
+\BOOKMARK [1][-]{section.7}{Seamless Integration}{}% 10
+\BOOKMARK [2][-]{subsection.7.1}{Checksum Calculation}{section.7}% 11
+\BOOKMARK [2][-]{subsection.7.2}{Request Parameters}{section.7}% 12
+\BOOKMARK [2][-]{subsection.7.3}{Response Parameters}{section.7}% 13
+\BOOKMARK [1][-]{section.8}{Check API}{}% 14
+\BOOKMARK [2][-]{subsection.8.1}{Request Parameters}{section.8}% 15
+\BOOKMARK [2][-]{subsection.8.2}{Response Parameters}{section.8}% 16
+\BOOKMARK [1][-]{section.9}{Update API}{}% 17
+\BOOKMARK [2][-]{subsection.9.1}{Request Parameters}{section.9}% 18
+\BOOKMARK [2][-]{subsection.9.2}{Response Parameters}{section.9}% 19
+\BOOKMARK [1][-]{section.10}{Bank-Codes}{}% 20
+\BOOKMARK [1][-]{section.11}{Zaakpay API Responses}{}% 21
+\BOOKMARK [2][-]{subsection.11.1}{Transact API Responses}{section.11}% 22
+\BOOKMARK [2][-]{subsection.11.2}{Check API Responses}{section.11}% 23
+\BOOKMARK [2][-]{subsection.11.3}{Update API Responses}{section.11}% 24
+\BOOKMARK [1][-]{section.12}{Testing}{}% 25

@@ -1,0 +1,68 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}Sign-Up}{1}{section.2}
+\contentsline {section}{\numberline {3}Get Merchant ID and Secret Key}{3}{section.3}
+\contentsline {section}{\numberline {4}Staging Credentials}{6}{section.4}
+\contentsline {section}{\numberline {5}Checksum Calculation}{7}{section.5}
+\contentsline {section}{\numberline {6}Card Encryption}{8}{section.6}
+\contentsline {section}{\numberline {7}Get Up Enabled Payment Options API}{10}{section.7}
+\contentsline {subsection}{\numberline {7.1}Request Parameters}{10}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Response Parameters}{10}{subsection.7.2}
+\contentsline {section}{\numberline {8}Transact API:Server-to-Server}{12}{section.8}
+\contentsline {subsection}{\numberline {8.1}Request Parameters}{13}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Response Parameters}{16}{subsection.8.2}
+\contentsline {subsubsection}{\numberline {8.2.1}If redirect required for card}{16}{subsubsection.8.2.1}
+\contentsline {subsubsection}{\numberline {8.2.2}Redirect required for net banking}{17}{subsubsection.8.2.2}
+\contentsline {subsubsection}{\numberline {8.2.3}If redirect not required and txn is complete}{18}{subsubsection.8.2.3}
+\contentsline {subsection}{\numberline {8.3}Final Response after Redirection:}{18}{subsection.8.3}
+\contentsline {section}{\numberline {9}Card Validation API}{19}{section.9}
+\contentsline {subsection}{\numberline {9.1}Request}{19}{subsection.9.1}
+\contentsline {subsubsection}{\numberline {9.1.1}Request Parameters :}{19}{subsubsection.9.1.1}
+\contentsline {subsubsection}{\numberline {9.1.2}Request Format:}{20}{subsubsection.9.1.2}
+\contentsline {subsection}{\numberline {9.2}Response}{20}{subsection.9.2}
+\contentsline {subsubsection}{\numberline {9.2.1}Response Parameters:}{20}{subsubsection.9.2.1}
+\contentsline {subsubsection}{\numberline {9.2.2}Response Format:}{21}{subsubsection.9.2.2}
+\contentsline {section}{\numberline {10}Add Card API}{22}{section.10}
+\contentsline {subsection}{\numberline {10.1}Request:}{22}{subsection.10.1}
+\contentsline {subsubsection}{\numberline {10.1.1}Request Parameters:}{22}{subsubsection.10.1.1}
+\contentsline {subsubsection}{\numberline {10.1.2}Request Format:}{23}{subsubsection.10.1.2}
+\contentsline {subsection}{\numberline {10.2}Response:}{24}{subsection.10.2}
+\contentsline {subsubsection}{\numberline {10.2.1}Response Parameters:}{24}{subsubsection.10.2.1}
+\contentsline {subsubsection}{\numberline {10.2.2}Response Format:}{24}{subsubsection.10.2.2}
+\contentsline {section}{\numberline {11}Fetch Card API:}{25}{section.11}
+\contentsline {subsection}{\numberline {11.1}Request:}{25}{subsection.11.1}
+\contentsline {subsubsection}{\numberline {11.1.1}Request Parameters:}{25}{subsubsection.11.1.1}
+\contentsline {subsubsection}{\numberline {11.1.2}Request Format:}{25}{subsubsection.11.1.2}
+\contentsline {subsection}{\numberline {11.2}Response:}{26}{subsection.11.2}
+\contentsline {subsubsection}{\numberline {11.2.1}Response Format:}{26}{subsubsection.11.2.1}
+\contentsline {section}{\numberline {12}Check API}{27}{section.12}
+\contentsline {subsection}{\numberline {12.1}Request:}{27}{subsection.12.1}
+\contentsline {subsubsection}{\numberline {12.1.1}Request Parameters:}{27}{subsubsection.12.1.1}
+\contentsline {subsubsection}{\numberline {12.1.2}Request Format:}{28}{subsubsection.12.1.2}
+\contentsline {subsection}{\numberline {12.2}Response Parameters}{28}{subsection.12.2}
+\contentsline {section}{\numberline {13}Update API}{30}{section.13}
+\contentsline {subsection}{\numberline {13.1}Request:}{30}{subsection.13.1}
+\contentsline {subsubsection}{\numberline {13.1.1}Request Parameters:}{30}{subsubsection.13.1.1}
+\contentsline {subsubsection}{\numberline {13.1.2}Request Format:}{31}{subsubsection.13.1.2}
+\contentsline {subsection}{\numberline {13.2}Response :}{32}{subsection.13.2}
+\contentsline {subsubsection}{\numberline {13.2.1}Response Parameters:}{32}{subsubsection.13.2.1}
+\contentsline {subsubsection}{\numberline {13.2.2}Response Format}{32}{subsubsection.13.2.2}
+\contentsline {section}{\numberline {14}Remove Card API}{33}{section.14}
+\contentsline {subsection}{\numberline {14.1}Request :}{33}{subsection.14.1}
+\contentsline {subsubsection}{\numberline {14.1.1}Request Parameters:}{33}{subsubsection.14.1.1}
+\contentsline {subsubsection}{\numberline {14.1.2}Request Format:}{33}{subsubsection.14.1.2}
+\contentsline {subsection}{\numberline {14.2}Response:}{34}{subsection.14.2}
+\contentsline {subsubsection}{\numberline {14.2.1}Response Parameters:}{34}{subsubsection.14.2.1}
+\contentsline {subsubsection}{\numberline {14.2.2}Response Format:}{34}{subsubsection.14.2.2}
+\contentsline {section}{\numberline {15}Testing}{35}{section.15}
+\contentsline {section}{\numberline {16}Test Cards for Different Scenarios:}{35}{section.16}
+\contentsline {section}{\numberline {17}Few Key Common Points for All APIs: }{36}{section.17}
+\contentsline {section}{\numberline {18}Bank-Codes}{38}{section.18}
+\contentsline {section}{\numberline {19}Zaakpay API Responses}{40}{section.19}
+\contentsline {subsection}{\numberline {19.1}Transact API Responses}{40}{subsection.19.1}
+\contentsline {subsection}{\numberline {19.2}Check API Responses}{43}{subsection.19.2}
+\contentsline {subsection}{\numberline {19.3}Update API Responses}{45}{subsection.19.3}
+\contentsline {subsection}{\numberline {19.4}Add Card Response Codes }{45}{subsection.19.4}
+\contentsline {subsection}{\numberline {19.5}Fetch Card Responses}{46}{subsection.19.5}
+\contentsline {subsection}{\numberline {19.6}Validate Card Responses:}{46}{subsection.19.6}
+\contentsline {section}{\numberline {20}Zaakpay Push Notification (v2.0)}{47}{section.20}

@@ -1,0 +1,67 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Sign-Up}{}% 2
+\BOOKMARK [1][-]{section.3}{Get Merchant ID and Secret Key}{}% 3
+\BOOKMARK [1][-]{section.4}{Staging Credentials}{}% 4
+\BOOKMARK [1][-]{section.5}{Checksum Calculation}{}% 5
+\BOOKMARK [1][-]{section.6}{Card Encryption}{}% 6
+\BOOKMARK [1][-]{section.7}{Get Up Enabled Payment Options API}{}% 7
+\BOOKMARK [2][-]{subsection.7.1}{Request Parameters}{section.7}% 8
+\BOOKMARK [2][-]{subsection.7.2}{Response Parameters}{section.7}% 9
+\BOOKMARK [1][-]{section.8}{Transact API:Server-to-Server}{}% 10
+\BOOKMARK [2][-]{subsection.8.1}{Request Parameters}{section.8}% 11
+\BOOKMARK [2][-]{subsection.8.2}{Response Parameters}{section.8}% 12
+\BOOKMARK [3][-]{subsubsection.8.2.1}{If redirect required for card}{subsection.8.2}% 13
+\BOOKMARK [3][-]{subsubsection.8.2.2}{Redirect required for net banking}{subsection.8.2}% 14
+\BOOKMARK [3][-]{subsubsection.8.2.3}{If redirect not required and txn is complete}{subsection.8.2}% 15
+\BOOKMARK [2][-]{subsection.8.3}{Final Response after Redirection:}{section.8}% 16
+\BOOKMARK [1][-]{section.9}{Card Validation API}{}% 17
+\BOOKMARK [2][-]{subsection.9.1}{Request}{section.9}% 18
+\BOOKMARK [3][-]{subsubsection.9.1.1}{Request Parameters :}{subsection.9.1}% 19
+\BOOKMARK [3][-]{subsubsection.9.1.2}{Request Format:}{subsection.9.1}% 20
+\BOOKMARK [2][-]{subsection.9.2}{Response}{section.9}% 21
+\BOOKMARK [3][-]{subsubsection.9.2.1}{Response Parameters:}{subsection.9.2}% 22
+\BOOKMARK [3][-]{subsubsection.9.2.2}{Response Format:}{subsection.9.2}% 23
+\BOOKMARK [1][-]{section.10}{Add Card API}{}% 24
+\BOOKMARK [2][-]{subsection.10.1}{Request:}{section.10}% 25
+\BOOKMARK [3][-]{subsubsection.10.1.1}{Request Parameters:}{subsection.10.1}% 26
+\BOOKMARK [3][-]{subsubsection.10.1.2}{Request Format:}{subsection.10.1}% 27
+\BOOKMARK [2][-]{subsection.10.2}{Response:}{section.10}% 28
+\BOOKMARK [3][-]{subsubsection.10.2.1}{Response Parameters:}{subsection.10.2}% 29
+\BOOKMARK [3][-]{subsubsection.10.2.2}{Response Format:}{subsection.10.2}% 30
+\BOOKMARK [1][-]{section.11}{Fetch Card API:}{}% 31
+\BOOKMARK [2][-]{subsection.11.1}{Request:}{section.11}% 32
+\BOOKMARK [3][-]{subsubsection.11.1.1}{Request Parameters:}{subsection.11.1}% 33
+\BOOKMARK [3][-]{subsubsection.11.1.2}{Request Format:}{subsection.11.1}% 34
+\BOOKMARK [2][-]{subsection.11.2}{Response:}{section.11}% 35
+\BOOKMARK [3][-]{subsubsection.11.2.1}{Response Format:}{subsection.11.2}% 36
+\BOOKMARK [1][-]{section.12}{Check API}{}% 37
+\BOOKMARK [2][-]{subsection.12.1}{Request:}{section.12}% 38
+\BOOKMARK [3][-]{subsubsection.12.1.1}{Request Parameters:}{subsection.12.1}% 39
+\BOOKMARK [3][-]{subsubsection.12.1.2}{Request Format:}{subsection.12.1}% 40
+\BOOKMARK [2][-]{subsection.12.2}{Response Parameters}{section.12}% 41
+\BOOKMARK [1][-]{section.13}{Update API}{}% 42
+\BOOKMARK [2][-]{subsection.13.1}{Request:}{section.13}% 43
+\BOOKMARK [3][-]{subsubsection.13.1.1}{Request Parameters:}{subsection.13.1}% 44
+\BOOKMARK [3][-]{subsubsection.13.1.2}{Request Format:}{subsection.13.1}% 45
+\BOOKMARK [2][-]{subsection.13.2}{Response :}{section.13}% 46
+\BOOKMARK [3][-]{subsubsection.13.2.1}{Response Parameters:}{subsection.13.2}% 47
+\BOOKMARK [3][-]{subsubsection.13.2.2}{Response Format}{subsection.13.2}% 48
+\BOOKMARK [1][-]{section.14}{Remove Card API}{}% 49
+\BOOKMARK [2][-]{subsection.14.1}{Request :}{section.14}% 50
+\BOOKMARK [3][-]{subsubsection.14.1.1}{Request Parameters:}{subsection.14.1}% 51
+\BOOKMARK [3][-]{subsubsection.14.1.2}{Request Format:}{subsection.14.1}% 52
+\BOOKMARK [2][-]{subsection.14.2}{Response:}{section.14}% 53
+\BOOKMARK [3][-]{subsubsection.14.2.1}{Response Parameters:}{subsection.14.2}% 54
+\BOOKMARK [3][-]{subsubsection.14.2.2}{Response Format:}{subsection.14.2}% 55
+\BOOKMARK [1][-]{section.15}{Testing}{}% 56
+\BOOKMARK [1][-]{section.16}{Test Cards for Different Scenarios:}{}% 57
+\BOOKMARK [1][-]{section.17}{Few Key Common Points for All APIs: }{}% 58
+\BOOKMARK [1][-]{section.18}{Bank-Codes}{}% 59
+\BOOKMARK [1][-]{section.19}{Zaakpay API Responses}{}% 60
+\BOOKMARK [2][-]{subsection.19.1}{Transact API Responses}{section.19}% 61
+\BOOKMARK [2][-]{subsection.19.2}{Check API Responses}{section.19}% 62
+\BOOKMARK [2][-]{subsection.19.3}{Update API Responses}{section.19}% 63
+\BOOKMARK [2][-]{subsection.19.4}{Add Card Response Codes }{section.19}% 64
+\BOOKMARK [2][-]{subsection.19.5}{Fetch Card Responses}{section.19}% 65
+\BOOKMARK [2][-]{subsection.19.6}{Validate Card Responses:}{section.19}% 66
+\BOOKMARK [1][-]{section.20}{Zaakpay Push Notification \(v2.0\)}{}% 67

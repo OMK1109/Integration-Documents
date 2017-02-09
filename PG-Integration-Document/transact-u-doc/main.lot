@@ -1,0 +1,22 @@
+\select@language {english}
+\contentsline {table}{\numberline {1}{Transact API request}}{13}{table.1}
+\contentsline {table}{\numberline {2}{Card-Validation API request}}{19}{table.2}
+\contentsline {table}{\numberline {3}{Card-Validation API response}}{20}{table.3}
+\contentsline {table}{\numberline {4}{Add-Card API request}}{22}{table.4}
+\contentsline {table}{\numberline {5}{Add-Card API response}}{24}{table.5}
+\contentsline {table}{\numberline {6}{Fetch-Card API request}}{25}{table.6}
+\contentsline {table}{\numberline {7}{Check API request}}{27}{table.7}
+\contentsline {table}{\numberline {8}{Check API response}}{28}{table.8}
+\contentsline {table}{\numberline {9}{Check API txnStatus}}{29}{table.9}
+\contentsline {table}{\numberline {10}{Update-API request}}{30}{table.10}
+\contentsline {table}{\numberline {11}{Update-API resposne}}{32}{table.11}
+\contentsline {table}{\numberline {12}{Remove-Card API request}}{33}{table.12}
+\contentsline {table}{\numberline {13}{Remove-Card API response}}{34}{table.13}
+\contentsline {table}{\numberline {14}{Bank-Codes}}{38}{table.14}
+\contentsline {table}{\numberline {15}{Transact-API Responses Codes}}{40}{table.15}
+\contentsline {table}{\numberline {16}{Transact-API Response Codes(Wallet)}}{42}{table.16}
+\contentsline {table}{\numberline {17}{Check-API Response Codes}}{43}{table.17}
+\contentsline {table}{\numberline {18}{Update-API Response Codes}}{45}{table.18}
+\contentsline {table}{\numberline {19}{Add-Card API response}}{45}{table.19}
+\contentsline {table}{\numberline {20}{Fetch Card Response Codes}}{46}{table.20}
+\contentsline {table}{\numberline {21}{Validate Card Response Codes}}{46}{table.21}
